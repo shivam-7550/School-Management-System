@@ -1,5 +1,6 @@
 <h1 align="center">🏫 School Management System</h1>
 <p>The School Management System is a web-based application designed to manage and streamline daily academic and administrative activities of a school. The system helps manage student records, teacher details, attendance, examinations, and fee management in a centralized and efficient manner.</p>
+<a href="https://realschoolmanagementsystem.netlify.app" target="_blank">School-Management-System-Link</a>
 <img width="1912" height="950" alt="Screenshot 2026-02-27 120803" src="https://github.com/user-attachments/assets/dec1f227-7013-4f54-9a2e-2b8b1bfb592a" />
 <h2 align="center">Roll Based Access</h2>
 <p>The application provides role-based access for administrators, teachers, and students to ensure secure and organized data handling.</p>
